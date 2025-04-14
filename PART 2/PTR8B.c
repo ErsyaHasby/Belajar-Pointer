@@ -2,8 +2,8 @@
 int main()
 {
     /* Kamus Data (deklarasi, inisialisasi nilai variabel)*/
-    char *nama1 = "DEWI SARTIKA";
-    char *nama2 = "SULTAN HASANUDDIN";
+    char *nama1 = "HENHEN HAYAM";
+    char *nama2 = "FEBRI HARIYADI";
     char *namaX;
     puts("Nama semula : ");
     printf("Nama 1 --> %s\n", nama1);
