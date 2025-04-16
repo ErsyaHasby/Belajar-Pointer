@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-/* Kamus Global */
 int N; /* Ukuran efektif array */
 
 /* Prototype, fungsi yang diberikan sebagai parameter aktual */
